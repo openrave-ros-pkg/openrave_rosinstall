@@ -1,0 +1,4 @@
+# Isolated Workspace
+- git: {local-name: underlay_isolated/src/openrave, uri: 'git@github.com:openrave-ros-pkg/openrave.git -b latest_stable'}
+- git: {local-name: underlay_isolated/src/openrave_catkin, uri: 'git@github.com:openrave-ros-pkg/openrave_catkin.git'}
+# Normal Workspace
