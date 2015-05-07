@@ -5,3 +5,4 @@
 - git: {local-name: underlay_isolated/src/srdfdom, uri: 'git@github.com:ros-planning/srdfdom.git'}
 # Normal Workspace
 - git: {local-name: underlay/src/openrave_irp6, uri: 'git@github.com:openrave-ros-pkg/openrave_irp6.git'}
+- git: {local-name: underlay/src/rubik_cube, uri: 'git@github.com:przemyslawkrajewski/rubik_cube.git'}
