@@ -2,6 +2,7 @@
 - git: {local-name: underlay_isolated/src/openrave, uri: 'git@github.com:openrave-ros-pkg/openrave.git -b latest_stable'}
 - git: {local-name: underlay_isolated/src/openrave_catkin, uri: 'git@github.com:openrave-ros-pkg/openrave_catkin.git'}
 - git: {local-name: underlay_isolated/src/or_urdf, uri: 'git@github.com:openrave-ros-pkg/or_urdf.git'}
+- git: {local-name: underlay_isolated/src/or_ompl, uri: 'git@github.com:openrave-ros-pkg/or_ompl.git'}
 - git: {local-name: underlay_isolated/src/srdfdom, uri: 'git@github.com:ros-planning/srdfdom.git'}
 # Normal Workspace
 - git: {local-name: underlay/src/openrave_irp6, uri: 'git@github.com:openrave-ros-pkg/openrave_irp6.git'}
